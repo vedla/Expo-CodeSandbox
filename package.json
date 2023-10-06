@@ -1,6 +1,8 @@
 {
-  "name": "react-native-expo",
+  "name": "expo-codesanbox",
   "version": "1.0.0",
+  "author": "Taylor Fox <hello@vedla.io> (https://tayfox.ca)",
+  "homepage": "https://code.vedla.io/expo/codesanbox/",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "export EXPO_PACKAGER_PROXY_URL=https://${CSB_SANDBOX_ID}-8080.csb.app && expo start --port 8080",
